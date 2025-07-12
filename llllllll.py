@@ -57,5 +57,5 @@ def plot_trigonometric_function():
                ['$-2\pi$', '$-3\pi/2$', '$-\pi$', '$-\pi/2$', '$0$', '$\pi/2$', '$\pi$', '$3\pi/2$', '$2\pi$'])
     plt.show()
 
-if __name__ == "__main__':
+if __name__ == "__main__": # <-- 이 부분을 수정했습니다.
     plot_trigonometric_function()
